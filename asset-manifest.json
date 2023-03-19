@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/grocery-shop-react/static/css/main.073c9b0a.css",
+    "main.js": "/grocery-shop-react/static/js/main.90ff9647.js",
+    "static/js/787.773bf31e.chunk.js": "/grocery-shop-react/static/js/787.773bf31e.chunk.js",
+    "static/media/logo.svg": "/grocery-shop-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/grocery-shop-react/index.html",
+    "main.073c9b0a.css.map": "/grocery-shop-react/static/css/main.073c9b0a.css.map",
+    "main.90ff9647.js.map": "/grocery-shop-react/static/js/main.90ff9647.js.map",
+    "787.773bf31e.chunk.js.map": "/grocery-shop-react/static/js/787.773bf31e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.90ff9647.js"
+  ]
+}
